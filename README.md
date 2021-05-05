@@ -31,7 +31,7 @@ Dataset is taken from tensorflow
 
 First, splitted the data into train and test wise making 20% for testing.
 
-Diving arrays values with 255, because the images are in between 255 of vectors
+Diving arrays values with 255
 
 Now, Using Convolution neural networks model is built
 
