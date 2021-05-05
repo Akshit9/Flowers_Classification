@@ -20,6 +20,11 @@ Dataset is taken from tensorflow
 - Sunflowers
 - Tulips
 
+# EDA
+![download (9)](https://user-images.githubusercontent.com/40689141/117158956-7fe4a280-addd-11eb-9f34-1d987e2a8ed5.png) ![download (10)](https://user-images.githubusercontent.com/40689141/117158987-87a44700-addd-11eb-9375-b720c018b7db.png)
+
+
+
 # Data Cleaning
 
 - Extracted data from tensorflow
