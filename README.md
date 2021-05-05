@@ -30,13 +30,18 @@ Dataset is taken from tensorflow
 # Model Building
 
 First, splitted the data into train and test wise making 20% for testing.
+
 Diving arrays values with 255, because the images are in between 255 of vectors
+
 Now, Using Convolution neural networks model is built
+
 Built the model with 15 epochs and got 98% accuracy, but during evaluation 65%
+
 Here, Used adam optimizer, Sparse Categorical crossentropy and few Conv2D,Maxpooling and Dense layers
 
 - Experiments
 To increase this accuracy and evaluation made up mind to tune the model with few techinques like Data Augumentation, Dropouts and padding
+
 After making some experiments on this techniques, with some descent accuracy of 73% and evaluation test of 68%. Really good to see this. 
 
 # Model Performance
