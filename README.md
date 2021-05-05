@@ -42,6 +42,7 @@ After making some experiments on this techniques, with some descent accuracy of 
 # Model Performance
 
 - Accuracy : 98 % & evaluation test 65 %
+
 Using techniques:
 - Accuracy : 73 % & evaluation test 68 %
 
